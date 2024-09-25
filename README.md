@@ -21,5 +21,8 @@ Enjoy the speedometer with its seatbelt feature. More updates coming soon!
 
 Feel free to contribute or report any issues. Happy driving!
 
+---
 
-![1](https://github.com/user-attachments/assets/80b41850-c7f5-482a-ba9c-e7a49e7afde5)
+![SPEEDOMETER 540x540 3](https://github.com/user-attachments/assets/e6db8347-bb6c-42c4-970a-d4a7cf552089)
+
+---
